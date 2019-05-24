@@ -2,6 +2,7 @@
   "name": "front",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://antoinedia.github.io/msg2000/",
   "dependencies": {
     "prop-type": "0.0.1",
     "react": "^16.8.6",
